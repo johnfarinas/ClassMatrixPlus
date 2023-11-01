@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Student Performance Analytics</h1>
+        <h1>Student Performance Analytics</h1>;
       </div>
     </>
   )
